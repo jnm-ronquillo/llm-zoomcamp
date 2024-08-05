@@ -163,3 +163,17 @@ Links:
 ## Homework
 
 See [here](../cohorts/2024/04-monitoring/homework.md)
+
+
+## Extra resources
+
+### Overview of the module
+
+![image](https://github.com/user-attachments/assets/0c5e932b-4fca-4d51-8b1c-93f4600861dc)
+
+https://www.loom.com/share/1dd375ec4b0d458fabdfc2b841089031
+
+# Notes
+
+* [Notes by slavaheroes](https://github.com/slavaheroes/llm-zoomcamp/blob/homeworks/04-monitoring/notes.md)
+* Did you take notes? Add them above this line (Send a PR with *links* to your notes)
